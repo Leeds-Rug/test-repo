@@ -31,6 +31,8 @@ The involves 3 things:
 
 1) Sign up to GitHub, as described here:
 https://github.com/join
+You can find an intro to command line Git here: 
+http://software-carpentry.org/lessons/
 
 2) Fork the repo onto your account as described here:
 https://help.github.com/articles/fork-a-repo/
