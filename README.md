@@ -32,8 +32,11 @@ The involves 3 things:
 1) Sign up to GitHub, as described here:
 https://github.com/join
 
+
 2) Fork the repo onto your account as described here:
-https://help.github.com/articles/fork-a-repo/
+https://help.github.com/articles/fork-a-repo/ 
+You can find a more general intro to command line Git here: 
+http://software-carpentry.org/lessons/
 
 3) Make some changes, push them and make a pull request to https://github.com/Leeds-Rug/test-repo :
 https://help.github.com/articles/using-pull-requests/
