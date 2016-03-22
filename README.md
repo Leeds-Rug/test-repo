@@ -1,10 +1,5 @@
 # Leeds R User Group
 
-To illustrate badges, I've taken ones from the **stplanr** package.
-
-[![Build Status](https://travis-ci.org/ropensci/stplanr.svg?branch=master)](https://travis-ci.org/ropensci/stplanr) [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/stplanr)](http://cran.r-project.org/package=stplanr)
-[![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/stplanr)](https://github.com/metacran/cranlogs.app)
-
 This is a test repo for Leeds R Users group.
 
 # Homework
