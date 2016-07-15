@@ -19,3 +19,8 @@ z <- outer(x, y, f)
 z[is.na(z)] <- 1
 op <- par(bg = "white")
 persp(x, y, z, theta = 30, phi = 30, expand = 0.5, col = "green")
+
+
+#arwa
+x <- rnorm(100, mean = 0, sd = 0.5)
+hist(x)
